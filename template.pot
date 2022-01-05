@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-05 19:00:0+0000\n"
+"PO-Revision-Date: 2022-01-05 19:00:00+0000\n"
+"Language: C\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #: app/js/ui/widgets/propertieswindow/editors/positioneditor.js:116
 msgctxt "Back side of a furniture"
 msgid "Back"
