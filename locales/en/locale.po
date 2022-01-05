@@ -1,0 +1,9 @@
+#: app/js/ui/widgets/propertieswindow/editors/positioneditor.js:116
+msgctxt "Back side of a furniture"
+msgid "Back"
+msgstr ""
+
+#: app/js/components/starterscreen/ui/widgets/starterscreen.js:454
+msgctxt "Return to last menu"
+msgid "Back"
+msgstr ""
